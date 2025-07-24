@@ -43,7 +43,7 @@ Each Excel file in this repository includes:
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/advanced-excel-practice.git
+   git clone https://github.com/AritroPaul23/Advance_Excel_Practice_Questions.git
 Open each file in Excel.
 
 Read the challenge in row 1 of each sheet.

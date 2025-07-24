@@ -58,8 +58,8 @@ Feel free to fork the repo and submit a pull request. Let’s build a strong pra
 
 # 📬 Contact
 Made with ❤️ by [Aritro Paul]
-📧 Email: your.email@example.com
-🔗 LinkedIn | GitHub
+📧 Email: aritropaul5@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/aritropaul23/)
 
 ⭐ Give it a Star!
 If you found this helpful, please ⭐ star the repo. It helps others discover this resource!
